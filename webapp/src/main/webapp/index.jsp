@@ -46,7 +46,7 @@ button {
 </head>  
 <body>  
     <center> <h1> Ravilla Srinu's Created Login Form </h1> </center> 
-    <center> <h1> Ansible playbook executed  </h1> </center>
+    <center> <h1> Ansible playbook </h1> </center>
 	<form>
         <div class="container"> 
             <label>Username : </label> 
